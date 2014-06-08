@@ -1,0 +1,6 @@
+C:\Users\Agnes\Documents\cuscapi\realtimereading\realtimereading\obj\Debug\realtimereading.csprojResolveAssemblyReference.cache
+C:\Users\Agnes\Documents\cuscapi\realtimereading\realtimereading\bin\realtimereading.dll.config
+C:\Users\Agnes\Documents\cuscapi\realtimereading\realtimereading\bin\realtimereading.dll
+C:\Users\Agnes\Documents\cuscapi\realtimereading\realtimereading\bin\realtimereading.pdb
+C:\Users\Agnes\Documents\cuscapi\realtimereading\realtimereading\obj\Debug\realtimereading.dll
+C:\Users\Agnes\Documents\cuscapi\realtimereading\realtimereading\obj\Debug\realtimereading.pdb
